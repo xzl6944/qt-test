@@ -1,0 +1,17 @@
+.vs/
+Debug/
+Release/
+x64/
+Win32/
+*.user
+*.suo
+*.VC.db
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
